@@ -1,5 +1,6 @@
-# Capstone-Project--Netflix-Data
-Capstone Project: 2017 Netflix Data Analysis
+# Codecamy - Python Project
+
+2017 Netflix Data Analysis
 
 Summary of visualizations:
 - Netflix Stock prices distribution 
